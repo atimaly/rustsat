@@ -1,0 +1,7 @@
+[project]
+name = "rustsat"
+requires-python = ">=3.7"
+
+[build-system]
+requires = ["maturin>=1.0,<2.0"]
+build-backend = "maturin"
